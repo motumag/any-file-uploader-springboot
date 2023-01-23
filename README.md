@@ -8,6 +8,10 @@
   <li>Fetch all files as well as by file names</li>
   <li>Store file in file server and register its only url and name in database</li>
 </ul>
+
+<a href="http://localhost:8080/files"> Fetch Files </a>
+<a href="http://localhost:8080/upload"> Upload Files </a>
+
     
 [![Motuma Gishu Linkedin](https://www.linkedin.com/in/motuma-gishu-a04248185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVqQyRH54SuCX1VfeEQ%2FIzQ%3D%3D)
 
