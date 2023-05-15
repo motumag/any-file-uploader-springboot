@@ -14,6 +14,7 @@ public class FileUploaderApplication implements CommandLineRunner  {
 
     public static void main(String[] args) {
         SpringApplication.run(FileUploaderApplication.class, args);
+        System.out.println("The file Uploader");
     }
 
     @Override
